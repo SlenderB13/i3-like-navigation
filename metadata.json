@@ -1,0 +1,9 @@
+{
+  "uuid": "i3likenavigation@slenderb13.com",
+  "name": "i3-like Navigation",
+  "description": "Cycle and move around workspaces like in i3 + some default keybindings",
+  "shell-version": [
+    "49"
+  ],
+  "url": "https://github.com/slenderb13/i3-like-navigation"
+}
